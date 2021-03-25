@@ -5,7 +5,7 @@
 //  Created by Kevin Torres Martínez on 24/3/21.
 //  Copyright © 2021 Kevin Torres Martínez. All rights reserved.
 //
-//  Round: https://www.codechef.com/COOK127C?order=desc&sortBy=accuracy
+//  Round: https://www.codechef.com/COOK127C
 //  Problem: https://www.codechef.com/COOK127C/problems/PAWRI
 //
 
