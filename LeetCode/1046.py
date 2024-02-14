@@ -2,7 +2,7 @@
 # LeetCode
 #
 # Problem - 1046
-# URL - https://leetcode.com/problems/kth-largest-element-in-a-stream/
+# URL - https://leetcode.com/problems/last-stone-weight/description/
 #
 
 class Solution:
